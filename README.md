@@ -1,2 +1,0 @@
-# redius-raid
-RKD Game
